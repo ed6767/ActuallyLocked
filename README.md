@@ -10,3 +10,5 @@ A cross-platform privacy safe that doesn't suck
 * Availible for Windows, macOS, Linux, Android and iOS
 * Sync your private safe across devices manually or via Google Drive
 * No ads (unless enabled to support the developer on Google Play version)
+* Private directory system for photos/videos, documents, etc.
+* Journal
